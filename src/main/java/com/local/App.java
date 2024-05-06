@@ -19,7 +19,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Iterator;
 
 /**
- * @author William S. Ramos
+ * @author wsramos
  *
  */
 
