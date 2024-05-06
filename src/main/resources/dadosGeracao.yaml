@@ -1,0 +1,10 @@
+# Dados para Geração do SQL
+
+excel:
+  filePath: "C:/Users/wsampaio/OneDrive - Indra/Projetos/Projeto FLY/Chamados/1152/PROD.xlsx"
+  sheetName: "Atualizar"
+  indexOfCellIDUpdate: 2
+  indexOfCellNewValueUpdate: 3
+  indexOfCellValidate: 5
+sql:
+  filePath: "C:/Users/wsampaio/OneDrive - Indra/Projetos/Projeto FLY/Chamados/1152/Atualizar.sql"
